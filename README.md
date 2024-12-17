@@ -19,10 +19,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://t.me/otravochka" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge&logoColor=grey" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:to.tatiana.panova@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=grey" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-grey?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail">
   </a>
 </p>
 Here are some ideas to get you started:
