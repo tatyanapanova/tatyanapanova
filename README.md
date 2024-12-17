@@ -10,7 +10,9 @@
 - Серьезная, упрямая, дотошная
 
 ---
+
 [Моё резюме](https://disk.yandex.ru/i/F7SDrwkVScIiSg)
+
 ---
 
 ## 📞 Как со мной связаться
@@ -24,29 +26,36 @@
 </a>
 </p>
 
+---
+
 ## 🚀 Стек и технологии:
 
-### 📁 Test Documentation:
-<p align="left">
-  <img src="./icons/Youtrack.png" alt="YouTrack" width="40" height="40">
-  <img src="./icons/Jira.svg" alt="Jira" width="40" height="40">
-  <img src="./icons/Figma.svg" alt="Figma" width="40" height="40">
+---
+
+### Test Documentation:
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" alt="YouTrack" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
   <img src="./icons/Confluence.svg" alt="Confluence" width="40" height="40">
-  <img src="./icons/TestIT.svg" alt="TestIT" width="40" height="40">
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" alt="TestIT" width="40" height="40">
   <img src="./icons/TestRail.svg" alt="TestRail" width="40" height="40">
   <img src="./icons/Asana.svg" alt="Asana" width="40" height="40">
   <img src="./icons/Kaiten.svg" alt="Kaiten" width="40" height="40">
-</p>
+</div>  
 
-### 🛠 Web Application Testing:
-<p align="left">
+### Web Application Testing:
+<div>
   <img src="./icons/ChromeDev.png" alt="Chrome Dev" width="40" height="40">
   <img src="./icons/Postman.png" alt="Postman" width="40" height="40">
   <img src="./icons/Swagger.svg" alt="Swagger" width="40" height="40">
   
-</p>
+<div>
 
-Здесь будет ссылка на тест-кейсы
-Здесь будет ссылка на баг-репорты
-ЗДесь будет ссылка на коллекции Postman
+---
+
+## 📁 Моё портфолио
+Здесь будет ссылка на тест-кейсы  
+Здесь будет ссылка на баг-репорты  
+ЗДесь будет ссылка на коллекции Postman  
 Здесь будет ссылка на коллекцию с автотестами в Postman
