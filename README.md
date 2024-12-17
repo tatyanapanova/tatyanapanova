@@ -38,7 +38,7 @@
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" alt="TestRail" title="TestRail" width="40" height="40">
   <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" alt="TestIT" title="TestIt" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"  title="Figma" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-plain.svg" alt="Confluence" titile="Confluence" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/confluence/confluence-plain.svg" alt="Confluence" title="Confluence" width="40" height="40">
   
 </div>  
 
@@ -48,7 +48,7 @@
 <div>
   <img src="https://github.com/ISLAMOVROMAN/ISLAMOVROMAN/blob/main/icons/ChromeDev.png" alt="Chrome Dev" title="DevTools" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-plain.svg" alt="Postman" title="Postman" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-plain.svg" alt="Swagger" titile="Swagger" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="40" height="40">
   
 <div>
 
