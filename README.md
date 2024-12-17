@@ -16,7 +16,7 @@
 ## 📞 Как со мной связаться
 <p align="left">
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white&labelColor=Grey" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://t.me/otravochka" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge&logoColor=grey" alt="Telegram">
