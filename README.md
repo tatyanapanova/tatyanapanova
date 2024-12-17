@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Меня зовут Татьяна Панова.  
+<h1 align="center"> Hi there, <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> меня зовут Татьяна Панова </h1>
+<h3 align="center">   
 Я сменила профессию, прошла обучение и начала проходить частную практику как Тестировщик. Давайте знакомиться!</h3>
 ---
 
