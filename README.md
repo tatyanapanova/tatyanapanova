@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> меня зовут Татьяна Панова </h1>
 <h3 align="center">   
 Я сменила профессию, прошла обучение и начала проходить частную практику как Тестировщик. Давайте знакомиться!</h3>
----
+
 
 ## 👨‍💻 Обо мне
 - Ручной тестировщик с большим желанием стать автоматизатором
@@ -16,13 +16,13 @@
 ## 📞 Как со мной связаться
 <p align="left">
   <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=grey" alt="LinkedIn">
   </a>
   <a href="https://t.me/otravochka" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&style=for-the-badge&logoColor=grey" alt="Telegram">
   </a>
   <a href="mailto:to.tatiana.panova@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=grey" alt="Gmail">
   </a>
 </p>
 Here are some ideas to get you started:
