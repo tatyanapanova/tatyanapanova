@@ -11,7 +11,7 @@
 
 ---
 
-[Моё резюме](https://disk.yandex.ru/i/F7SDrwkVScIiSg)
+## ⭐ [Моё резюме](https://disk.yandex.ru/i/F7SDrwkVScIiSg)
 
 ---
 
@@ -28,9 +28,7 @@
 
 ---
 
-## 🚀 Стек и технологии:
-
----
+## 🚀 Стек и технологии:  
 
 ### Test Documentation:
 <div>
