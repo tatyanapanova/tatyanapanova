@@ -12,7 +12,7 @@
 
 ---
 
-## ⭐ [Моё резюме](https://disk.yandex.ru/i/F7SDrwkVScIiSg)
+## ⭐ [Моё резюме](https://disk.yandex.ru/i/oG9yryCrLHinFg)
 
 ---
 
