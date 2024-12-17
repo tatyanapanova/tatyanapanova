@@ -9,7 +9,8 @@
 - Серьезная, упрямая, дотошная, структурная
 
 ---
-[Моё резюме]([https://disk.yandex.ru/i/F7SDrwkVScIiSg](https://disk.yandex.ru/i/F7SDrwkVScIiSg)
+[Моё резюме](https://disk.yandex.ru/i/F7SDrwkVScIiSg)
+---
 
 
 Here are some ideas to get you started:
