@@ -52,8 +52,8 @@
 ---
 
 ## 📁 Моё портфолио
-[Чек-листы](https://disk.yandex.ru/i/YiuN-WLh6RNmTA)
-[Тест-кейсы](https://disk.yandex.ru/i/5hh0FsYboT5okA)
-[Баг-репорты](https://disk.yandex.ru/i/jzuwjg99XAmW0g)
-[Коллекция Postman](https://disk.yandex.ru/d/qpG2UOE0pnr6lg) 
-[Автотесты в Postman](https://disk.yandex.ru/d/0hAIcpyJ4k3pTw)
+<p>[Чек-листы](https://disk.yandex.ru/i/YiuN-WLh6RNmTA)</p>
+<p>[Тест-кейсы](https://disk.yandex.ru/i/5hh0FsYboT5okA)</p>
+<p>[Баг-репорты](https://disk.yandex.ru/i/jzuwjg99XAmW0g)</p>
+<p>[Коллекция Postman](https://disk.yandex.ru/d/qpG2UOE0pnr6lg)</p>
+<p>[Автотесты в Postman](https://disk.yandex.ru/d/0hAIcpyJ4k3pTw)</p>
