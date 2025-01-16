@@ -52,7 +52,9 @@
 ---
 
 ## 📁 Моё портфолио
-<p>[Чек-листы](https://disk.yandex.ru/i/YiuN-WLh6RNmTA)</p>
+<p>
+  <a href="https://disk.yandex.ru/i/YiuN-WLh6RNmTA"target="_blank">Чек-листы  title="Чек-листы"</a>
+</p>
 <p>[Тест-кейсы](https://disk.yandex.ru/i/5hh0FsYboT5okA)</p>
 <p>[Баг-репорты](https://disk.yandex.ru/i/jzuwjg99XAmW0g)</p>
 <p>[Коллекция Postman](https://disk.yandex.ru/d/qpG2UOE0pnr6lg)</p>
