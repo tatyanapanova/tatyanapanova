@@ -52,7 +52,8 @@
 ---
 
 ## 📁 Моё портфолио
-[Тест-кейсы] (
-Баг-репорты  
-Коллекция Postman  
-Автотесты в Postman
+[Чек-листы] (https://disk.yandex.ru/i/YiuN-WLh6RNmTA)
+[Тест-кейсы] (https://disk.yandex.ru/i/5hh0FsYboT5okA)
+[Баг-репорты] (https://disk.yandex.ru/i/jzuwjg99XAmW0g)
+[Коллекция Postman] (https://disk.yandex.ru/d/qpG2UOE0pnr6lg) 
+[Автотесты в Postman] (https://disk.yandex.ru/d/0hAIcpyJ4k3pTw)
