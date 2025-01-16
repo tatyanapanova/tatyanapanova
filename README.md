@@ -12,15 +12,12 @@
 
 ---
 
-## ⭐ [Моё резюме](https://disk.yandex.ru/i/oG9yryCrLHinFg)
+## ⭐ [Моё резюме](https://disk.yandex.ru/d/tKJLi3dikfYqwA)
 
 ---
 
 ## 📞 Как со мной связаться
 <p align="left">
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn">
-</a>
 <a href="https://t.me/otravochka" target="_blank"> <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram">
 </a>
 <a href="mailto:to.tatiana.panova@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-grey?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail">
@@ -55,7 +52,7 @@
 ---
 
 ## 📁 Моё портфолио
-Здесь будет ссылка на тест-кейсы  
-Здесь будет ссылка на баг-репорты  
-Здесь будет ссылка на коллекции Postman  
-Здесь будет ссылка на коллекцию с автотестами в Postman
+[Тест-кейсы] (
+Баг-репорты  
+Коллекция Postman  
+Автотесты в Postman
