@@ -59,7 +59,7 @@
   <a href="https://disk.yandex.ru/i/5hh0FsYboT5okA" target="_blank">Тест-кейсы</a>
 </p>
 <p>
-  <a href="https://disk.yandex.ru/i/jzuwjg99XAmW0" target="_blank">Баг репорты</a>
+  <a href="https://disk.yandex.ru/i/jzuwjg99XAmW0g" target="_blank">Баг репорты</a>
 </p>
 <p>
   <a href="https://disk.yandex.ru/d/qpG2UOE0pnr6lg" target="_blank">Коллекция Postman</a>
